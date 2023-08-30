@@ -37,6 +37,7 @@ int	check_line(t_data *data, char **splitted, char *line)
 	if (data->error)
 	{
 		free(line);
+		ft_free_mtx(splitted);
 		error_msg(data, data->error);
 	}
 	return (0);
