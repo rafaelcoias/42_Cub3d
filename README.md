@@ -41,7 +41,7 @@ Check this raycasting <a href="https://github.com/vinibiavatti1/RayCastingTutori
 
 <details><summary>My Cub3D</summary>
   
-Coming soon
+![ezgif com-video-to-gif](https://github.com/rafaelcoias/42_cub3D/assets/91686183/ae67fe45-68e6-4428-b445-3a56d9d657e4)
   
 </details>
 
